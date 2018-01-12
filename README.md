@@ -8,7 +8,7 @@ Video Tutorial_PL:
 https://www.youtube.com/watch?v=5plmmO82kdg&list=PLZQKTfr7_vvQcrrFVsnXTmXIBSDS9o1e2&index=19
 
 Helpfull page:
-http://opensourceforu.com/2016/09/coap-get-started-with-iot-protocols/
-https://github.com/okleine
-https://github.com/jvermillard/hands-on-coap
-https://github.com/eclipse/californium
+1) http://opensourceforu.com/2016/09/coap-get-started-with-iot-protocols/
+2) https://github.com/okleine
+3) https://github.com/jvermillard/hands-on-coap
+4) https://github.com/eclipse/californium
